@@ -61,6 +61,3 @@ expense-tracker/
 
 Contributions are welcome! Please feel free to fork the repository, make changes, and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
